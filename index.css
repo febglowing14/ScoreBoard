@@ -32,6 +32,10 @@ h1{
     display: flex;
     margin-left: 400px;
     margin-top: 175px;
+    background-color:#82ff7a36;
+    margin-right:400px ;
+    padding-left: 70px;
+    padding-bottom: 30px;
 
 }
 button{
